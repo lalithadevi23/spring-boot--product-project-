@@ -12,6 +12,7 @@ Prerequisites:
    - Download and install Spring Tool Suite (STS) from the official website (https://spring.io/tools).
 3. MySQL Database:
    - Install MySQL if not already installed. You can download the MySQL Community Server from the official MySQL website (https://dev.mysql.com/downloads/installer/).
+
 **PROJECT PROCEDURE OF CRUD APPLICATION FOR PRODUCT**
 1) Firstly setup the  requried software to the machince.
 2) Using Spring Boot just opened the Spring Tool Suite for Developing the business logic.
