@@ -1,4 +1,5 @@
 # spring-boot-product-project
+
 **INTRODUCTION**
 The CRUD (Create, Read, Update, Delete) application built with Spring Boot, SpringToolSuite, and MySQL serves the purpose of providing a robust and user-friendly system for managing data.
 Its scope encompasses: 1) Data Managemenet  2) Technoligical Stack   3) Scalability  4) Customization 
