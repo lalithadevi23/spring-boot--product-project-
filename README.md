@@ -7,6 +7,7 @@ Its scope encompasses: 1) Data Managemenet  2) Technoligical Stack   3) Scalabil
 Overall, the CRUD application streamlines data management operations, making it an essential tool for businesses and organizations to efficiently handle their data-related tasks.
 
 **SETTING UP THE DEVELOPMENT ENVIRONMENT**
+
 To set up the development environment for the CRUD application using Spring Tool Suite (STS), follow these instructions, including the necessary prerequisites:
 Prerequisites:
 1. Java Development Kit (JDK):
